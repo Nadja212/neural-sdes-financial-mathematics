@@ -22,7 +22,7 @@ The repository is organised as follows:
 
 ```text
 repository/
-├── calibration.ipynb
+├── Calibration.ipynb
 └── README.md
 ```
 
